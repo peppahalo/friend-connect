@@ -6,6 +6,13 @@
 WE _AS CONTRIBUTORS_ ARE NOT RESPONSIBLE FOR ANY DAMAGE OR LOSS CAUSED BY THIS APP.
 USE AN ALT ACCOUNT, JUST IN CASE THERE IS AN ISSUE WITH THIS METHOD.**
 
+## Note
+This project has been discontinued by the original creator, me and a few others are working on keeping this project alive. The orginal discord has been shut down, but there is still a discord for help.
+Halo#2437 Can still help set this up.
+https://discord.gg/gNTTEbjQPv
+Join this discord for help.
+
+this 
 ## About
 
 This is a project for minecraft bedrock/(java with geyser) that allows you to join servers via the in game friends tab. The most notable differing factor is, that console players can connect to servers without using an advanced method.
@@ -14,10 +21,7 @@ This project is still in development, so please be patient if there are issues.
 
 The best way to use this tool at the moment is as a node module. Read the tutorial below for more information of how to set this up.
 
-## Discord
-
-If you want to be notified when any changes occur to this project, you can join the discord server.<br>
-**_[FriendConnect Support Server Invite](https://discord.gg/PYENSbUWa2)_**
+As there is a 1000 friend cap on xbox live, you may need to setup multiple accounts if you go over 1000.
 
 ## How it works in game
 
@@ -68,7 +72,7 @@ new Session({
 	},
 });
 ```
-
+You may need to setup a cron to restart this every 15 minutes.
 Set `type` to `module` in the `package.json` file.
 _If you don't know what I am talking about, make a file called `package.json` and add the following._
 
