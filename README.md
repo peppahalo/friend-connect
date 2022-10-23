@@ -12,7 +12,6 @@ Halo#2437 Can still help set this up.
 https://discord.gg/gNTTEbjQPv
 Join this discord for help.
 
-this 
 ## About
 
 This is a project for minecraft bedrock/(java with geyser) that allows you to join servers via the in game friends tab. The most notable differing factor is, that console players can connect to servers without using an advanced method.
